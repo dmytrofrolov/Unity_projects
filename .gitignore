@@ -27,3 +27,13 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+UnityCirclePong/ProjectSettings/
+UnityCirclePong/Library
+*.apk
+UnityCirclePong/Assets/Textures/
+*.meta
+*.ini
+*.csproj
+*.unity
+*.sln
+*.userprefs
