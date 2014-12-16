@@ -37,3 +37,10 @@ UnityCirclePong/Assets/Textures/
 *.unity
 *.sln
 *.userprefs
+*/Library/
+*/ProjectSettings/
+*/Assets/Materials/
+*/Assets/Audio/
+*.zip
+BlusterCut/Temp/UnityLockfile
+*.prefab
